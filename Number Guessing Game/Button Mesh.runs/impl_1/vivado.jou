@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Dec  3 02:00:06 2024
+# Process ID         : 12544
+# Current directory  : C:/Users/Aaron/Documents/Button Mash Project/Button Mesh/Button Mesh.runs/impl_1
+# Command line       : vivado.exe -log guess_the_number.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source guess_the_number.tcl -notrace
+# Log file           : C:/Users/Aaron/Documents/Button Mash Project/Button Mesh/Button Mesh.runs/impl_1/guess_the_number.vdi
+# Journal file       : C:/Users/Aaron/Documents/Button Mash Project/Button Mesh/Button Mesh.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-7V94ONU
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+# CPU Frequency      : 2803 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16872 MB
+# Swap memory        : 11811 MB
+# Total Virtual      : 28683 MB
+# Available Virtual  : 6652 MB
+#-----------------------------------------------------------
+source guess_the_number.tcl -notrace
